@@ -1,1 +1,2 @@
-name: lp
+config:
+ info: config-dev.yml version=1
